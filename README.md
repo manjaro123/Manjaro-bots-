@@ -1,4 +1,4 @@
-# Manjaro Bot – Android dashboard
+hi# Manjaro Bot – Android dashboard
 
 Shows bot status, latest signals (entry / SL / TP) and Start/Stop buttons.
 
